@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154582194786",
+    "project_id": "konmari-3fc9c",
+    "storage_bucket": "konmari-3fc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154582194786:android:bb4f903e501f61069f0f3b",
+        "android_client_info": {
+          "package_name": "com.shashank.konmari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154582194786-kjl61bo57a9odqhnr5d3n05nlem5f970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlR-rm1DTYBXG_vkAUYLhEwYaVfSJ4HZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154582194786-kjl61bo57a9odqhnr5d3n05nlem5f970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
